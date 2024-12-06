@@ -1,0 +1,1 @@
+This repository contains the academic paper analyzing yield spreads in U.S. international investment. It also contains the data and Python program used to perform the analysis of the data that supports the conclusions of the paper.
